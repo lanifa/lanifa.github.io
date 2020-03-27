@@ -1,0 +1,7 @@
+	h1 {text-align: center;background-color: grey;} 
+	h1 {color: saddlebrown;} 
+	p {color: saddlebrown; background-color: grey;} 
+	ul {color: saddlebrown;} 
+	ul {font-size: 20px} 
+	body {background-image: url(lpjs.jpg); background-repeat: no-repeat;background-attachment: fixed; background-size: cover;:}
+	img {src="Foto.jpg" style="width: 400px;height: 300px"; border: double; display: block;}
